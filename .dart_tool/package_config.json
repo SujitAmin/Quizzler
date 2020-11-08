@@ -80,6 +80,12 @@
       "languageVersion": "2.10"
     },
     {
+      "name": "rflutter_alert",
+      "rootUri": "file:///Users/Admin/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/rflutter_alert-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///Users/Admin/Developer/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -140,7 +146,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-11-07T16:56:48.276157Z",
+  "generated": "2020-11-08T08:47:12.631975Z",
   "generator": "pub",
   "generatorVersion": "2.10.2"
 }
